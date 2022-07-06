@@ -62,7 +62,7 @@ header > p {
     text-align: center;
     font-size: 1.2em;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 30px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 
@@ -143,7 +143,6 @@ main a:hover {
     text-decoration: underline;
     color: var(--cor4);
 }
-
 
 main img {
     width: 100%;
